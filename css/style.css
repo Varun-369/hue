@@ -1751,23 +1751,24 @@ a:hover {
   float: left;
 }
 .case-details h3 {
+  color: #ed7207;
   font-size: 80px;
   font-weight: 800;
   margin-bottom: 20px;
-  margin-top: 150px;
+  margin-top: 80px;
 }
 .case-details h6 {
   font-weight: 300;
   font-size: 24px;
   line-height: 34px;
-  padding-right: 40%;
+ 
   margin-bottom: 20px;
 }
 .case-details p {
   color: #808080;
 }
 .case-details p:last-child {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 .case-details .case-navbar {
   width: 100%;
@@ -2803,6 +2804,17 @@ a:hover {
   .footer h2 {
     font-size: 40px;
   }
+}
+#case-section-2{
+  .challenge{
+    color: #ed7207;
+  }
+  li{
+    color: #ed7207;
+  }
+}
+.social-media{
+  background-color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
