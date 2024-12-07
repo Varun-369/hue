@@ -2813,8 +2813,24 @@ a:hover {
     color: #ed7207;
   }
 }
+#case-section-3{
+  
+  li{
+    color: #ed7207;
+  }
+}
+#case-section-4{
+  .visual{
+    color: #ed7207;
+  }
+  li{
+    color: #ed7207;
+  }
+}
 .social-media{
   background-color: white;
 }
-
+.website{
+  color: #ed7207;
+}
 /*# sourceMappingURL=style.css.map */
