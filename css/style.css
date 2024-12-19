@@ -330,7 +330,7 @@ a:hover {
   transform: translate(16px, 16px);
 }
 .dots-menu:hover .pix {
-  background-color: #33a16e;
+  background-color: #ed7207;
 }
 .dots-menu:hover .pix:nth-of-type(1) {
   transform: translate(-4px, -4px);
@@ -414,7 +414,7 @@ a:hover {
   width: 50px;
   height: 50px;
   line-height: 50px;
-  background: #33a16e;
+  background: #ed7207;
   color: #fff;
   position: absolute;
   right: 0;
@@ -463,7 +463,7 @@ a:hover {
   left: 0;
   top: 0;
   z-index: 13;
-  background: #33a16e;
+  background: #ed7207;
   -webkit-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -moz-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -o-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
@@ -520,7 +520,7 @@ a:hover {
   width: 2px;
   height: 16px;
   display: inline-block;
-  background: #33a16e;
+  background: #ed7207;
   text-indent: -1000px;
   overflow: hidden;
 }
@@ -556,8 +556,8 @@ a:hover {
 .preloader .loadbar {
   width: 0%;
   height: 100%;
-  background: #33a16e;
-  box-shadow: 0px 0px 10px #33a16e;
+  background: #ed7207;
+  box-shadow: 0px 0px 10px #ed7207;
   position: absolute;
   top: 0;
   left: 0;
@@ -628,7 +628,7 @@ a:hover {
   left: -100%;
   top: 0;
   z-index: 2;
-  background: #33a16e;
+  background: #ed7207;
   -webkit-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -moz-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -o-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
@@ -743,7 +743,7 @@ a:hover {
   left: -100%;
   top: 0;
   z-index: 2;
-  background: #33a16e;
+  background: #ed7207;
   -webkit-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -moz-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
   -o-transition: all 400ms cubic-bezier(0.595, 0.03, 0, 0.88);
@@ -824,7 +824,7 @@ a:hover {
   display: none;
 }
 .navigation-menu .inner ul li ul li a:hover {
-  color: #33a16e;
+  color: #ed7207;
 }
 .navigation-menu .inner ul li a {
   font-size: 50px;
@@ -839,7 +839,7 @@ a:hover {
   position: absolute;
   left: 0;
   bottom: 12px;
-  background: #33a16e;
+  background: #ed7207;
   z-index: -1;
   -webkit-transition: 0.25s ease-in-out;
   -moz-transition: 0.25s ease-in-out;
@@ -912,7 +912,7 @@ a:hover {
   margin: 10px 0;
 }
 .social-media li a:hover {
-  color: #33a16e;
+  color: #ed7207;
 }
 
 /* SCROLL DOWN */
@@ -1023,7 +1023,7 @@ a:hover {
   color: #808080;
 }
 .navbar .languages a:hover {
-  color: #33a16e;
+  color: #ed7207;
   text-decoration: none;
 }
 .navbar .languages a.active {
@@ -1156,7 +1156,7 @@ a:hover {
   font-size: 14px;
   display: none;
   float: right;
-  color: #33a16e;
+  color: #ed7207;
   font-weight: 600;
   margin-bottom: 0;
   margin-top: -20px;
@@ -1286,9 +1286,9 @@ a:hover {
   font-weight: 600;
 }
 .particles-mask .inner a:hover {
-  background: #33a16e;
+  background: #ed7207;
   color: #fff;
-  border-color: #33a16e;
+  border-color: #ed7207;
   text-decoration: none;
 }
 .particles-mask #particles-js {
@@ -1429,9 +1429,9 @@ a:hover {
   font-weight: 600;
 }
 .video-hero a:hover {
-  background: #33a16e;
+  background: #ed7207;
   color: #fff;
-  border-color: #33a16e;
+  border-color: #ed7207;
   text-decoration: none;
 }
 
@@ -1710,11 +1710,11 @@ a:hover {
   padding-bottom: 2px;
 }
 .filter-bar .works-filter li a.current {
-  color: #33a16e;
-  border-bottom: 2px solid #33a16e;
+  color: #ed7207;
+  border-bottom: 2px solid #ed7207;
 }
 .filter-bar .works-filter li a:hover {
-  color: #33a16e;
+  color: #ed7207;
   text-decoration: none;
 }
 .filter-bar .works-filter.active li {
@@ -1801,7 +1801,7 @@ a:hover {
   font-weight: 600;
 }
 .case-details .case-navbar ul li a:hover {
-  color: #33a16e;
+  color: #ed7207;
   text-decoration: none;
 }
 
@@ -1867,7 +1867,7 @@ a:hover {
 }
 .features-content a {
   font-size: 12px;
-  color: #33a16e;
+  color: #ed7207;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 70px;
@@ -1877,7 +1877,7 @@ a:hover {
   content: "";
   width: 0;
   height: 2px;
-  background: #33a16e;
+  background: #ed7207;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -2034,7 +2034,7 @@ a:hover {
   width: 100%;
   height: 5px;
   mix-blend-mode: hard-light;
-  background: #33a16e;
+  background: #ed7207;
 }
 
 /* OUR TEAM */
@@ -2168,7 +2168,7 @@ a:hover {
   height: 44px;
   line-height: 44px;
   float: left;
-  background: #33a16e;
+  background: #ed7207;
   color: #fff;
   border: none;
   border-radius: 0;
@@ -2214,7 +2214,7 @@ a:hover {
   text-decoration: underline;
 }
 .news .post .post-content .post-categories li a:hover {
-  color: #33a16e;
+  color: #ed7207;
 }
 .news .post .post-content .post-title {
   display: block;
@@ -2225,7 +2225,7 @@ a:hover {
 }
 .news .post .post-content h5 {
   font-weight: 600;
-  color: #33a16e;
+  color: #ed7207;
   margin-bottom: 15px;
 }
 .news .post .post-content .post-date {
@@ -2243,7 +2243,7 @@ a:hover {
 .news .post .post-content blockquote {
   width: 100%;
   display: block;
-  background: #33a16e;
+  background: #ed7207;
   padding: 20px;
   color: #fff;
 }
@@ -2274,7 +2274,7 @@ a:hover {
 }
 .news .post .post-content .post-link {
   font-size: 15px;
-  color: #33a16e;
+  color: #ed7207;
   display: inline-block;
   font-family: "Fjalla One", sans-serif;
   font-weight: 400;
@@ -2286,7 +2286,7 @@ a:hover {
   content: "";
   width: 100%;
   height: 2px;
-  background: #33a16e;
+  background: #ed7207;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -2336,7 +2336,7 @@ a:hover {
   font-weight: 600;
   margin-bottom: 40px;
   text-decoration: underline;
-  color: #33a16e;
+  color: #ed7207;
 }
 .say-hello .alert {
   width: 100%;
@@ -2490,7 +2490,7 @@ a:hover {
   color: #fff;
 }
 .footer ul li a:hover {
-  color: #33a16e;
+  color: #ed7207;
 }
 .footer span {
   display: block;
@@ -2827,9 +2827,7 @@ a:hover {
     color: #ed7207;
   }
 }
-.social-media{
-  background-color: white;
-}
+
 .website{
   color: #ed7207;
 }
@@ -2838,3 +2836,13 @@ a:hover {
   flex-wrap: wrap;
 }
 /*# sourceMappingURL=style.css.map */
+#media{
+  #media{
+    display: flex;
+    justify-content: center;
+  }
+  .title-media{
+    display: flex;
+    justify-content: center;
+  }
+}
