@@ -2459,7 +2459,7 @@ a:hover {
   position: relative;
 }
 .footer img {
-  height: 55px;
+  height: 90px;
   display: inline-block;
   margin-bottom: 20px;
 }
@@ -2470,7 +2470,7 @@ a:hover {
 }
 .footer h5 {
   font-family: "Fjalla One", sans-serif;
-  text-transform: uppercase;
+ 
   margin-bottom: 50px;
   color: #808080;
 }
